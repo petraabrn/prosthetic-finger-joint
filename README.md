@@ -51,10 +51,5 @@ This project is an experimental prototype of an articulated prosthetic finger th
 │   ├── assemblies/          # SolidWorks assembly files 
 │   ├── parts/               # SolidWorks part files 
 │   └── stl/                 # 3D print files 
-├── firmware/
-│   └── prosthetic_finger/   # Arduino sketches (.ino)
-├── electronics/
-│   └── schematics/          # Breadboard wiring and resistor layout diagrams
-└── docs/
-    └── logs/                # Weekly testing logs and prototype sketches
-    └── documentation/       # Documentation of final product
+├── electronics/             # Arduino sketches
+└── docs/                    # Documentation and weekly logs
